@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "service_Name": "Vaccination",
+        "img": "https://i.ibb.co/YjK7QNy/photo-1554734867-bf3c00a49371.jpg",
+        "description": "If you are Covid negative then you are eligible to have vaccination."
+    }, 
+    {
+        "id": "2",
+        "service_Name": "Isolation",
+        "img": "https://i.ibb.co/f4zLPJ4/photo-1583947215259-38e31be8751f.jpg",
+        "description": "If you are Covid postive then you need Isolation."
+    }, 
+    {
+        "id": "3",
+        "service_Name": "Online Support",
+        "img": "https://i.ibb.co/Yp749Vw/photo-1587854692152-cbe660dbde88.jpg",
+        "description": "If you want self Isolation then we will support you online."
+    }, 
+    {
+        "id": "4",
+        "service_Name": "Deliver Medicine",
+        "img": "https://i.ibb.co/RzcRLSw/photo-1592671963996-0b4616e9f042.jpg",
+        "description": "If you need any emergency medicine inform us."
+    }, 
+    {
+        "id": "5",
+        "service_Name": "Abulance",
+        "img": "https://i.ibb.co/Rh2sSdj/photo-1610702878756-ee591216ea96.jpg",
+        "description": "Inform us quickly If someone needs to hospitalize."
+    }, 
+    {
+        "id": "6",
+        "service_Name": "Sanitization",
+        "img": "https://i.ibb.co/Jt98V7H/photo-1611694554696-e5a46f5015bf.jpg",
+        "description": "If Sanitization of any places you need then contact us."
+    }
+]
+
+
+

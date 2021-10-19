@@ -1,0 +1,7 @@
+#float-btn{
+    background: transparent !important;
+    border: none;
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+}

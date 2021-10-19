@@ -1,0 +1,86 @@
+[
+    {   
+        "id" : "1",
+        "name": "Oxford-AstraZeneca",
+        "vaccine_type": "Viral Vector",
+        "trade_name" : "Vaxzevria",
+        "CAS_number" : "2420395-83-9",
+        "drug_bank" : "DB15656",
+        "total_received" : "15.7",
+        "img" : "https://i.ibb.co/BrCnhn6/Foto-Arne-Mselerwww-arne-mueseler-comhallo-arne-mueseler-com.jpg",
+        "developed" : "United Kingdom by the Oxford University and British-Swedish company AstraZeneca",
+        "effectiveness" : "63%"
+    },
+    {   
+        "id" : "2",
+        "name": "Spuntik-V",
+        "vaccine_type": "Viral Vector",
+        "trade_name" : "Spuntik-V",
+        "CAS_number" : "2348461-85-5",
+        "drug_bank" : "DB15848",
+        "total_received" : "0",
+        "img" : "https://i.ibb.co/frLNX6V/1617310379-2869.jpg",
+        "developed" : " Gamaleya Research Institute of Epidemiology and Microbiology in Russia",
+        "effectiveness" : "92%"
+    },
+    {   
+        "id" : "3",
+        "name": "Sinopharm BIBP",
+        "vaccine_type": "Inactivated",
+        "trade_name" : "Sinopharm BIBP",
+        "CAS_number" : "2503126-65-4",
+        "drug_bank" : "DB15807",
+        "total_received" : "40",
+        "img" : "https://i.ibb.co/MngN5PH/Sinopharm-BBIBP-Cor-V-COVID-19-vaccine-vial-from-Nikli-Bangladesh.jpg",
+        "developed" : "Sinopharm's Beijing Institute of Biological Products",
+        "effectiveness" : "79%"
+    },
+    {   
+        "id" : "4",
+        "name": "Pfizer–BioNTech",
+        "vaccine_type": "mRNA",
+        "trade_name" : "Comirnaty",
+        "CAS_number" : "2417899-77-3",
+        "drug_bank" : "DB15696",
+        "total_received" : "6.1",
+        "img" : "https://i.ibb.co/TBrVGqP/Covid19-vaccine-biontech-pfizer-3.jpg",
+        "developed" : "German biotechnology company BioNTech",
+        "effectiveness" : "95%"
+    },
+    {   
+        "id" : "5",
+        "name": "CoronaVac",
+        "vaccine_type": "Inactivated",
+        "trade_name" : "CoronaVac",
+        "CAS_number" : "2427561-61-4",
+        "drug_bank" : "DB15806",
+        "total_received" : "0",
+        "img" : "https://i.ibb.co/cvF1WbK/Corona-Vac.jpg",
+        "developed" : "Chinese company Sinovac Biotech",
+        "effectiveness" : "50%"
+    },
+    {   
+        "id" : "6",
+        "name": "Janssen",
+        "vaccine_type": "Viral Vector",
+        "trade_name" : "Janssen",
+        "CAS_number" : "2510034-55-6",
+        "drug_bank" : "DB15857",
+        "total_received" : "0",
+        "img" : "https://i.ibb.co/9bfk6kR/Janssen-COVID-19-vaccine-2021-F-cropped.jpg",
+        "developed" : "Janssen Vaccines in Leiden, Netherlands and  subsidiary of American company Johnson & Johnson",
+        "effectiveness" : "66%"
+    },
+    {   
+        "id" : "7",
+        "name": "Moderna",
+        "vaccine_type": "mRNA",
+        "trade_name" : "Spikevax",
+        "CAS_number" : "2430046-03-8",
+        "drug_bank" : "DB15654",
+        "total_received" : "5.5",
+        "img" : "https://i.ibb.co/PhstkNY/Vials-containing-the-Moderna-COVID-19-vaccine-sit-on-a-table-in-preparation-for-vaccinations-at-Kade.jpg",
+        "developed" : "American company Moderna",
+        "effectiveness" : "94%"
+    }
+]
