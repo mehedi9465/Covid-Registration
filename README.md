@@ -1,10 +1,10 @@
 # Getting Started with Covid Registration
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is created with React and for design bootstrap is used [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Features
 
-In the project directory, you can run:
+In the project directory, you can:
 
 ### `npm start`
 
