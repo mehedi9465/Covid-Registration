@@ -21,10 +21,10 @@ const Header = () => {
                 <NavbarCollapse id='responsiveNav'>
                 <Nav className="ms-auto">
                     <Nav.Link as={Link} to="/">Home</Nav.Link>
-                    <Nav.Link as={HashLink} to="/#effectStatus">Effect State</Nav.Link>
+                    <Nav.Link as={HashLink} to="/#effectStatus">Vaccine Effect</Nav.Link>
                     <Nav.Link as={HashLink} to="/#services">Services</Nav.Link>
-                    <Nav.Link as={HashLink} to="/#about">About</Nav.Link>
                     <Nav.Link as={HashLink} to="/#totalCases">Total Cases</Nav.Link>
+                    <Nav.Link as={HashLink} to="/#about">About</Nav.Link>
                     {
                     user.email &&
                     <div>

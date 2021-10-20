@@ -18,8 +18,8 @@ const Home = () => {
             <Banner></Banner>
             <Services></Services>
             <EffectStatus></EffectStatus>
-            <About></About>
             <TotalCases></TotalCases>
+            <About></About>
             {/* <EffectState></EffectState> */}
             <Footer></Footer>
             <HashLink id='float-btn' to='/#banner'><Image src='https://cdn-icons-png.flaticon.com/64/892/892692.png'/></HashLink>

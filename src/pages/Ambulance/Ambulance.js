@@ -43,6 +43,7 @@ const Ambulance = () => {
                     <option>Choose...</option>
                     <option>Barisal</option>
                     <option>Chittagong</option>
+                    <option>Dhaka</option>
                     <option>Khulna</option>
                     <option>MymenSingh</option>
                     <option>Rajshahi</option>
